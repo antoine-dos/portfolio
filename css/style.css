@@ -1,0 +1,109 @@
+body{
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+}
+
+header{
+    display: flex;
+}
+
+.header-case{
+    border: solid white 1px;
+}
+
+#case01{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.logo-mmo{
+    margin-top: 10%;
+    width: 45%;
+    border-radius: 50%;
+}
+
+#header-group-case{
+    width: 70%;
+    
+}
+
+#case02{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#name{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+}
+
+#header-group-03-04-05{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#case03{
+    width: 23%;
+}
+
+#case03 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo-python{
+    width: 70%;
+}
+
+#case04{
+    width: 23%;
+}
+
+#case04 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo-html{
+    width: 70%;
+}
+
+#case05{
+    width: 23%;
+}
+
+#case05 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo-css{
+    width: 70%;
+}
+
+#case06{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#case06 div{
+    display: flex;
+    flex-direction: column;
+}
+
+#case06 a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin: 10% auto;
+}
